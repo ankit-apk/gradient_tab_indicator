@@ -1,7 +1,7 @@
-name: gradient_tab_indicator
+name: custom_underline_tab_indicator
 description: Add gradient colour to tab indicator
 version: 0.0.1
-homepage:
+homepage: https://github.com/ankit-apk/gradient_tab_indicator
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
